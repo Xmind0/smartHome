@@ -27,8 +27,8 @@
 - **执行模块**：包括红外发射管和MG995舵机，负责执行空调控制和门锁控制。
 - **通信模块**：ESP8266WIFI模块，负责与用户智能设备的通信。
 
-
-![image](https://github.com/user-attachments/assets/f51758b1-6ae4-4405-9643-16451452145c)
+103C8T6_home_f0（单片机代码） home.PcbDoc（开发板）  weapp（小程序代码）
+![image](https://github.com/user-attachments/assets/f49e61bf-bda6-42aa-8cf1-a56d7904d812)
 ![image](https://github.com/user-attachments/assets/75f941cb-107a-4e9e-b63c-ffe94cfea850)
 ![image](https://github.com/user-attachments/assets/6baf67ab-97b1-49f4-95f6-c8e75a6533ba)
 
